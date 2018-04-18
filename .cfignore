@@ -4,3 +4,10 @@ Packages/*
 docker-compose.yml
 Dockerfile
 *.xcodeproj/
+scripts
+.git/
+.git/objects/pack/*
+plugins/**/*
+/.bundle
+tmp/
+.pack
