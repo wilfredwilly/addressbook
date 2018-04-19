@@ -3,4 +3,4 @@ applications:
 - name: addressbook
   memory: 512M
   host: addressbook
-  path: target/addressbook.war
+  path: addressbook_main/target/addressbook.war
