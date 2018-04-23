@@ -1,6 +1,6 @@
 ---
 applications:
-- name: addressbook
+- name: application
   path: addressbook_main/target/addressbook.war
   buildpack: java_buildpack
 
