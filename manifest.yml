@@ -1,7 +1,6 @@
 ---
 applications:
 - name: addressbook
-  memory: 512M
-  host: addressbook
   path: addressbook_main/target/addressbook.war
   buildpack: java_buildpack
+
